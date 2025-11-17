@@ -3,7 +3,7 @@ A simple browser-based Snake game built with JavaScript, HTML, and CSS.
 
 ## Features
 - Classic Snake gameplay
-- Smooth keyboard controls (arrow keys / WASD)
+- Smooth keyboard controls (arrow keys)
 - Score tracking
 - Simple, lightweight codebase (vanilla JavaScript)
 - Easy to customize (speed, grid size, colors)
